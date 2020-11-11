@@ -4,7 +4,7 @@ import React from "react"
 function Home() {
     return (
         <div className="media" style={{ margin: "10% 10%" }}>
-            <img src="react-portfolio\public\MyPicture.jpg" className="align-self-start mr-3" alt="Mohamed Salih" />
+            <img src="./MyPicture.jpg" className="align-self-start mr-3 fluid" alt="Mohamed Salih" />
 
             <div className="media-body">
                 <h5 className="mt-0">About Me</h5>
